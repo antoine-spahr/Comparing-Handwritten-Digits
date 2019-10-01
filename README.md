@@ -12,7 +12,7 @@ In addition to the target, the class of each image (= the digit represented) is 
 ![simple CNN](Report/Figures/BaseConv.png)
 
 ## Weight Sharing CNN
-![WS CNN](Report/Figures/WeightSharing.png)
+![WS CNN](Report/Figures/WeightSharing.PNG)
 
 ## Auxiliary Loss CNN
 ![AL CNN](Report/Figures/AuxLoss.png)
@@ -21,4 +21,4 @@ In addition to the target, the class of each image (= the digit represented) is 
 To increase the number of training samples, a data augmentation is performed. It consists of translating the image in 9 possible directions by one pixel differently for both images. Another augmentation consists of flipping the pairs which to get a new configuration of images.
 
 # Contribution
-This project has been made by Sacha Haidinger, Nils Olsen, and Antoine Spahr 
+This project has been made by Sacha Haidinger, Nils Olsen, and Antoine Spahr
