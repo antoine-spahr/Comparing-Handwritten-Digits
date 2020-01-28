@@ -20,5 +20,9 @@ In addition to the target, the class of each image (= the digit represented) is 
 # Data Augmentation
 To increase the number of training samples, a data augmentation is performed. It consists of translating the image in 9 possible directions by one pixel differently for both images. Another augmentation consists of flipping the pairs which to get a new configuration of images.
 
+# Performances
+
+![performances](Report/Figures/performance.png)
+
 # Contribution
 This project has been made by Sacha Haidinger, Nils Olsen, and Antoine Spahr
